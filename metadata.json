@@ -1,0 +1,6 @@
+{
+  "name": "Kedai Kopi Ruang Atas",
+  "description": "Website Landing Page Resmi Kedai Kopi Ruang Atas — Coffee & Rooftop di Singabangsa, Tenjo, Bogor. Suasana cozy, industrial, dan santai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
